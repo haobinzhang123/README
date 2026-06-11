@@ -1,7 +1,6 @@
 CLC-DE: Coupled Lévy-Convolutional Differential Evolution
 1. Overview
-CLC-DE is an improved Differential Evolution algorithm designed for continuous numerical optimization problems. The algorithm integrates adaptive parameter control, an external archive, linear population size reduction, dynamic mutation strategy allocation, Lévy-based perturbation, and a convolution-inspired smoothing mutation mechanism.
-The method is suitable for solving bounded continuous optimization problems, especially high-dimensional, non-convex, and multimodal optimization tasks.
+CLC-DE is an improved Differential Evolution algorithm designed for continuous numerical optimization problems. 
 This implementation is written in MATLAB.
 ________________________________________
 2. File Structure
